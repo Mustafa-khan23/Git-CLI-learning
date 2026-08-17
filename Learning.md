@@ -298,6 +298,6 @@ git show <commit/tag>
 
 <div align="center">
 
-**Made with 🖤 for developers who git it 😄**
+**Made with 🖤 (love) for developers who git it 😄**
 
 </div>
